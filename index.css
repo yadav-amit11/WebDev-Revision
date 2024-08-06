@@ -1,0 +1,28 @@
+body {
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.box1 {
+    width: 75%;
+    height: 80vh;
+    display: flex;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+}
+
+.countdown {
+    border: 5px solid black;
+    width: 600px;
+    height: 350px;
+    margin: auto;
+    padding: 50px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
